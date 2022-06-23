@@ -47,9 +47,9 @@ You can easily become a music 🎵artist with Musiccloud. Share your own mp3 fil
 ## More
 
 **MusicCloud** was created by **Linkspreed**.
-Become a news reporter quickly and easily
-and experience a whole new kind of
-social media.
+Produce your own beats, sounds
+and songs and share them on a dedicated
+music-only social network.
 
 MusicCloud is developed and provided by [Linkspreed 🚀](https://www.linkspreed.com/).
 
