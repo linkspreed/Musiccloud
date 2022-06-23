@@ -1,4 +1,4 @@
-# <img align="left" alt="MusicCloud" width="100px" src="https://musiccloud.cf/themes/soundify/img/icon.png" draggable="false" /> Soundify 🔥 ([Click to try 🚀](https://musiccloud.cf/))
+# <img align="left" alt="MusicCloud" width="100px" src="https://musiccloud.cf/themes/soundify/img/icon.png" draggable="false" /> MusicCloud 🔥 ([Click to try 🚀](https://musiccloud.cf/))
 
 Firelaps 🔥 is a fiery network where anyone📱 can become a news reporter.✨ It's a whole new kind of social network.🚀
 
