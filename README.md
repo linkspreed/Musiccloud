@@ -14,19 +14,36 @@ Firelaps 🔥 is a fiery network where anyone📱 can become a news reporter.✨
 
 ## Features
 
-- **News**: Post, and import news easily.
-- **Videos**: Post, and import videos easily from YouTube, Dailymation, Facebook, and Vine.
-- **Lists**: Create unlimited lists such as buzzfeed lists, and lot more!
-- **Polls**: Create unlimited polls.
-- **Music**: Create unlimited music, import music from soundcloud.
-- **Quizzes**: Create unlimited quizzes.
-- **Powerful UI**: Beautiful and modern design.
-- **Breaking News**: Create Live Breaking News.
-- **Reaction System**: Users can react to posts.
-- **Custom Profile Fields**: Create custom profile fields for users.
-- **API System**: Full API system included for third patry applications. 
-- **AND SO MUCH MORE ...**
-
+- **RTL Support** MusicCloud also supports right to left languages.
+ - **Social Login** With MusicCloud you can login via most famous social media websites like (Facebook – Twitter – Google+ – LinkedIn – Vk – Instagram).
+ - **Easy & Nice Looking URL** Users, Songs, Albums all in one tiny URL!
+ - **Home/News Feed** Displays Posts, Songs, Products, and Albums posted by followed people.
+ - **User/Artists Timeline** Displays user’s profile with Songs, Albums, and Products posted and shared by user.
+ - **Store System** Artists can sell their own good that are related to their songs.
+ - **Events System** Artists are able to create events and sell tickets to other users.
+ - **Multi Upload** Upload a folder full of songs with one drag and drop.
+ - **Import System** Users can import songs from Itune, YouTube and SoundCloud. With YouTube import system, listeners can watch the video as well.
+ - **Ads System** Users can pay you for publishing in-site images & in-song audio ads.
+ - **Cover Picture/Video** Users can upload their own cover image/video.
+ - **Story System** Users can upload stories in audio-only format, free & paid stories that will be promoted to all users.
+ - **Notifications** Receive notification from users (likes, dislikes, comments, shares .. etc)
+ - **#Hashtags** Displays trending and related songs shared by users.
+ - **@Mentions** Use @username to tag people in a song or messages.
+ - **Post Privacy** User can choose the post privacy (Only me, Everyone.. etc)
+ - **Likes** Like or unlike a song. View list of people who like this.
+ - **Dislike** Dislike a song. View list of people who dislike this.
+ - **Comments & Replies** Comment on a post, Reply to a comment, View all post comments.
+ - **Search** Search for people, songs, albums, #Hashtags with our filtered search system.
+ - **Reports** Report posts to be checked by administrators.
+ - **Live Chat** Real-time live chat system.
+ - **Full API** MusicCloud comes with full API system, there is an API for every single feature!
+ - **Multi Languages** 4 Languages (Arabic, English, Russian, Turkish) with the ability to add unlimited languages.
+ - **Verified** Profiles.
+ - **Fully responsive** for all devices, browsers.
+ - **Password recovery** by email.
+ - **Online user** counter on home page.
+ - **Emoticons**
+ - **And so much more ...**
 ## More
 
 **Firelaps** was created by **Linkspreed**.
