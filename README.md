@@ -3,8 +3,8 @@
 Firelaps 🔥 is a fiery network where anyone📱 can become a news reporter.✨ It's a whole new kind of social network.🚀
 
 
-## **[Changelog 🔥](https://github.com/linkspreed/Firelaps/blob/main/changelog.md)** **Check out the full Firelaps changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Firelaps/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Firelaps besides development**
+## **[Changelog 🎵](https://github.com/linkspreed/Musiccloud/blob/main/changelog.md)** **Check out the full Musiccloud changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/Musiccloud/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Musiccloud besides development**
 
 
 <div align="center">
