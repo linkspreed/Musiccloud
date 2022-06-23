@@ -65,16 +65,16 @@ Create an account now and immerse yourself in a new world of social networks.
 
 
 ### Welcome :)
-<img align="center" alt="Firelaps" width="3000px" src="https://github.com/linkspreed/Firelaps/blob/main/Screenshots/1.PNG" draggable="false" />
+<img align="center" alt="Musiccloud" width="3000px" src="https://github.com/linkspreed/Musiccloud/blob/main/Screenshots/1.PNG" draggable="false" />
 
 ### Timeline
-<img align="center" alt="Firelaps" width="3000px" src="https://github.com/linkspreed/Firelaps/blob/main/Screenshots/2.PNG" draggable="false" />
+<img align="center" alt="Musiccloud" width="3000px" src="https://github.com/linkspreed/Musiccloud/blob/main/Screenshots/2.PNG" draggable="false" />
 
 ### Publish now
-<img align="center" alt="Firelaps" width="3000px" src="https://github.com/linkspreed/Firelaps/blob/main/Screenshots/3.PNG" draggable="false" />
+<img align="center" alt="Musiccloud" width="3000px" src="https://github.com/linkspreed/Musiccloud/blob/main/Screenshots/3.PNG" draggable="false" />
 
 ### Settings
-<img align="center" alt="Firelaps" width="3000px" src="https://github.com/linkspreed/Firelaps/blob/main/Screenshots/4.PNG" draggable="false" />
+<img align="center" alt="Musiccloud" width="3000px" src="https://github.com/linkspreed/Musiccloud/blob/main/Screenshots/4.PNG" draggable="false" />
 
 ### Dark Mode
-<img align="center" alt="Firelaps" width="3000px" src="https://github.com/linkspreed/Firelaps/blob/main/Screenshots/5.PNG" draggable="false" />
+<img align="center" alt="Musiccloud" width="3000px" src="https://github.com/linkspreed/Musiccloud/blob/main/Screenshots/5.PNG" draggable="false" />
