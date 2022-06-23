@@ -46,12 +46,12 @@ Firelaps 🔥 is a fiery network where anyone📱 can become a news reporter.✨
  - **And so much more ...**
 ## More
 
-**Firelaps** was created by **Linkspreed**.
+**MusicCloud** was created by **Linkspreed**.
 Become a news reporter quickly and easily
 and experience a whole new kind of
 social media.
 
-Firelaps is developed and provided by [Linkspreed 🚀](https://www.linkspreed.com/).
+MusicCloud is developed and provided by [Linkspreed 🚀](https://www.linkspreed.com/).
 
  ```php
     We make sure that our code 
