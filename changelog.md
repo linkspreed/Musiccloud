@@ -1,3 +1,15 @@
+# v1.4.6 (24 Jun, 2022)
+ - ADDED new left sidebar on volcano theme.
+ - ADDED faqs page.
+ - ADDED new discover page on default theme.
+ - ADDED the ability to re-arrange playlist songs.
+ - ADDED the ability to translate terms page.
+ - ADDED Remember This Device option to login page.
+ - ADDED Password Complexity System to registration page.
+ - ADDED Auto Username to registration page.
+ - ADDED the ability to translate SEO details.
+ - FIXED 5 minor bugs.
+
 # Version 1.4.5 (26 Jan, 2022)
  - ADDED ffmpeg debug system, now you can debug the output of the ffmpeg
  - FIXED uploading albums was not working.
