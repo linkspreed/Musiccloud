@@ -1,3 +1,6 @@
+# 01.07.2022
+ - We released a small design update for Musiccloud.
+
 # 24.06.2022 
  - The new version 1.4.6 has been released.
 
