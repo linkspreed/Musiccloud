@@ -1,3 +1,6 @@
+# 29.07.2022
+ - We will release an update in the near future.
+
 # 01.07.2022
  - We released a small design update for Musiccloud.
 
