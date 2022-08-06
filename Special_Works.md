@@ -1,4 +1,7 @@
 # 06.08.2022
+ - Musiccloud's servers are ready.... the code is in the starting blocks and the update is starting now.☁️🚀
+
+# 06.08.2022
  - Today we release version 1.4.7 of Musiccloud
 
 # 29.07.2022
