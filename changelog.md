@@ -1,3 +1,19 @@
+# v1.4.7 [06/08/2022]
+ - ADDED the ability to add custom withdrawal methods.
+ - ADDED feature privacy.
+ - ADDED the ability to mark all messages as read.
+ - ADDED time to messages.
+ - ADDED the ability to resend email verfication and two auth emails.
+ - ADDED hreflang tags.
+ - IMPROVED SEO of whole website.
+ - IMPROVED speed bt 50% more.
+ - UPDATED all PHP libs to new versions.
+ - FIXED earnings count was wrong.
+ - FIXED verification badge now showing everywhere.
+ - FIXED empty album showing when songs are private.
+ - FIXED songs were downloaded as .html file if remote storage like Google cloud is enabled.
+ - FIXED 5 minor bugs.
+
 # v1.4.6 (24 Jun, 2022)
  - ADDED new left sidebar on volcano theme.
  - ADDED faqs page.
