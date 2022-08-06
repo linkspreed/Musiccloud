@@ -1,3 +1,6 @@
+# 06.08.2022
+ - Today we release version 1.4.7 of Musiccloud
+
 # 29.07.2022
  - We will release an update in the near future.
 
