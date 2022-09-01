@@ -1,4 +1,7 @@
 # 01.09.2022
+ - Update 1.4.8 was successfully installed on the servers.
+
+# 01.09.2022
  - We are now starting the update
 
 # 01.09.2022
