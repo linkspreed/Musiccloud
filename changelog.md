@@ -1,3 +1,10 @@
+# v1.4.8 [01/09/2022]
+ - ADDED Wasabi storage possibility.
+ - ADDED custom endpoint (domain name) for S3, Spaces, Wasabi and Backblaze.
+ - ADDED Backblaze storage.
+ - ADDED the ability to upload files directly to third party storages.
+ - FIXED 5 minor bugs.
+
 # v1.4.7 [06/08/2022]
  - ADDED the ability to add custom withdrawal methods.
  - ADDED feature privacy.
