@@ -1,3 +1,6 @@
+# 01.09.2022
+ - The update process to version 1.4.8 will start shortly
+
 # 31.08.2022
  - On September 1st, 2022 we will launch a new update.
 
