@@ -1,4 +1,7 @@
 # 01.09.2022
+ - The design update for Musiccloud has been successfully completed and adapted to the new version 1.4.8.
+
+# 01.09.2022
  - Musiccloud is now getting a design update.
 
 # 01.09.2022
