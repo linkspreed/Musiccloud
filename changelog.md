@@ -1,3 +1,25 @@
+# v1.4.9 [12/10/2022]
+ - ADDED cronjob.php to handle all background processes (required to add).
+ - ADDED the ability to disable custom pages.
+ - ADDED flutterwave payment method.
+ - ADDED the ability to import from https://developer.kkbox.com
+ - ADDED developers page, users can login to other websites using Musiccloud.
+ - ADDED Hindi, Urdu, Chine, Indonesian, Croatian, Hebrew, Bengali, Japanese, Portuguese, Italian, Persian, Swedish, Vietnamese, Danish, and Filipino languages.
+ - ADDED emojis on messenger.
+ - ADDED reserved usernames system, block certain usernames.
+ - ADDED system status to detect problems on server.
+ - FIXED social network links not showing on footer.
+ - FIXED default currency not showing on songs and products.
+ - FIXED stories views not working.
+ - FIXED sitemap hanging on please wait.
+ - FIXED album thumbnail upload, songs thumbnail not uploading.
+ - FIXED social login for vk, linkedin, mailru and discord.
+ - FIXED automatic thumbnail when uploading an album.
+ - FIXED automatic description when uploading an album.
+ - FIXED dropdown menu broken on mobile.
+ - FIXED footer in in volcano welcome page.
+ - FIXED 3 minor bugs.
+
 # v1.4.8 [01/09/2022]
  - ADDED Wasabi storage possibility.
  - ADDED custom endpoint (domain name) for S3, Spaces, Wasabi and Backblaze.
