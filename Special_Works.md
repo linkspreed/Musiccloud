@@ -1,3 +1,6 @@
+### 20.10.2022 (announcement MusicCloud)
+- We continue to work on **MusicCloud**.
+
 # 12.10.2022
  - Good news! 🥳
  - Version 1.4.9 is now available. 💯
