@@ -1,3 +1,6 @@
+### 28.10.2022 (announcement MusicCloud)
+- **MusicCloud** now uses the ffmpeg system on our servers.
+
 ### 20.10.2022 (announcement MusicCloud)
 - We continue to work on **MusicCloud**.
 
