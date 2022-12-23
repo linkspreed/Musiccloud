@@ -1,3 +1,6 @@
+### 23.12.2022 (announcement Musiccloud)
+- We're currently working on a new update for **Musiccloud**!
+
 ### 28.10.2022 (announcement MusicCloud)
 - We're going to do a check now.
 
