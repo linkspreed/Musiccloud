@@ -1,4 +1,7 @@
 ### 23.12.2022 (announcement Musiccloud)
+- The code is now ready for the launch of version 1.5 for **Musiccloud**.
+
+### 23.12.2022 (announcement Musiccloud)
 -  **Musiccloud** gets a big update today - we are going to launch v1.5. 😍
 
 ### 23.12.2022 (announcement Musiccloud)
