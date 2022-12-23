@@ -1,3 +1,14 @@
+# v1.5 [23/12/2022]
+ - ADDED the ability to update profile picture from settings page for phone users.
+ - ADDED new theme for volcano.
+ - ADDED the ability to listen to all favourites songs.
+ - ADDED the ability to filter events by date.
+ - ADDED the ability to customize website default color.
+ - UPDATED Google plus link in footer with Instagram
+ - UPDATED upload system, now ffmpeg runs in background, user can browse the website while uploading a song.
+ - FIXED if the uploaded songs are not submitted, they remain forever on the server.
+ - FIXED 10+ minor bugs.
+
 # v1.4.9 [12/10/2022]
  - ADDED cronjob.php to handle all background processes (required to add).
  - ADDED the ability to disable custom pages.
