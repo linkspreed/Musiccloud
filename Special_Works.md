@@ -1,4 +1,7 @@
 ### 23.12.2022 (announcement Musiccloud)
+- **Musiccloud** now uses PHP 8.0!
+
+### 23.12.2022 (announcement Musiccloud)
 - We're currently working on a new update for **Musiccloud**!
 
 ### 28.10.2022 (announcement MusicCloud)
