@@ -1,3 +1,6 @@
+### 24.12.2022 (announcement Musiccloud)
+- We're working on the theme update for **Musiccloud**.
+
 ### 23.12.2022 (announcement Musiccloud)
 - https://github.com/linkspreed/Musiccloud/blob/main/changelog.md
 - The entire changelog is now available on Github.
