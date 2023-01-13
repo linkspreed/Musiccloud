@@ -1,4 +1,7 @@
 ### 13.01.2023 (announcement Musiccloud)
+- We are now starting the launch of v1.5.1.
+
+### 13.01.2023 (announcement Musiccloud)
 - The servers are now ready for the launch of version 1.5.1 for **Musiccloud**.
 
 ### 13.01.2023 (announcement Musiccloud)
