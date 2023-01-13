@@ -1,3 +1,18 @@
+# v1.5.1 [13/01/2023]
+ - FIXED clicking on username in message section goes to 404.
+ - FIXED clicking enter on search bar refreshes the bar.
+ - FIXED clicking load more on albums page cause to load albums repeatedly.
+ - FIXED webp upload issue.
+ - FIXED You can not scroll down in the album songs on the mobile browser.
+ - FIXED {{ads}} showing in spotlight page.
+ - FIXED when you click on load more in hall of fame page, you get broken profiles.
+ - FIXED sometimes broken activities show on artist's page.
+ - FIXED some links go to 404.
+ - FIXED home page on mobile browser is not full responsive.
+ - FIXED upload-song and go-pro page on mobile.
+ - FIXED broken home icon showing on nonlogged in header.
+ - FIXED 5+ minor bugs.
+
 # v1.5 [23/12/2022]
  - ADDED the ability to update profile picture from settings page for phone users.
  - ADDED new theme for volcano.
