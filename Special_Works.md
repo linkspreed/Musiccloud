@@ -1,3 +1,6 @@
+### 13.01.2023 (announcement Musiccloud)
+-  **Musiccloud** gets a big update today - we are going to launch v1.5.1. 😍
+
 ### 13.01.2023 (announcement MusicCloud)
 - We are working very hard on the new version 1.5.1 for **MusicCloud**!
 
