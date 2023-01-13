@@ -1,3 +1,6 @@
+### 13.01.2023 (announcement MusicCloud)
+- We are working very hard on the new version 1.5.1 for **MusicCloud**!
+
 ### 24.12.2022 (announcement Musiccloud)
 - The new theme update for **Musiccloud** has been released today!
 
