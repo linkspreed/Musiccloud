@@ -1,4 +1,4 @@
-# <img align="left" alt="MusicCloud" width="100px" src="https://musiccloud.cf/themes/soundify/img/icon.png" draggable="false" /> MusicCloud 🎵 ([Click to try 🚀](https://musiccloud.cf/))
+# <img align="left" alt="MusicCloud" width="100px" src="https://musiccloud.cf/themes/soundify/img/icon.png" draggable="false" /> MusicCloud 🎵 ([Click to try 🚀](https://musiccloud.cf/)) (v1.5.1)
 
 You can easily become a music 🎵artist with Musiccloud. Share your own mp3 files. 🎵You can upload music that you have produced, voice recordings, or podcasts. 🎨Your profile - your music - your digital calling card.
 
