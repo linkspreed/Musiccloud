@@ -1,3 +1,6 @@
+### 20.01.2023 (announcement Musiccloud)
+-  **Musiccloud** gets a big update today - we are going to launch v1.5.2. 😍
+
 ### 13.01.2023 (announcement Musiccloud)
 - https://github.com/linkspreed/Musiccloud/blob/main/changelog.md
 - The entire changelog is now available on Github.
