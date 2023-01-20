@@ -1,4 +1,9 @@
 ### 20.01.2023 (announcement Musiccloud)
+- The launch of version 1.5.2 of **Musiccloud** was successful! 🥳
+- The new update is live now :)
+- https://musiccloud.cf 🔗
+
+### 20.01.2023 (announcement Musiccloud)
 - We are now starting the launch of v1.5.2.
 
 ### 20.01.2023 (announcement Musiccloud)
