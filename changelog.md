@@ -1,3 +1,7 @@
+# v1.5.2 [20/01/2023]
+ - ADDED plugin system, now developers can contribute with plugins for MusicCloud
+ - FIXED 2+ minor bugs.
+
 # v1.5.1 [13/01/2023]
  - FIXED clicking on username in message section goes to 404.
  - FIXED clicking enter on search bar refreshes the bar.
