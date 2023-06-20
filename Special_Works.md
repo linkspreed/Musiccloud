@@ -1,3 +1,6 @@
+### 20.06.2023 (announcement Musiccloud)
+- 🎵🎧 Exciting news! We've just added Musiccloud to our subdomain system. 🎉 You can now access it through https://musiccloud.cf which will lead you to https://musiccloud.linkspreed.com. Don't worry, nothing changes in terms of using the platform and all your existing data is still there. Have you tried Musiccloud yet? 🤔 #MusicLovers #Musiccloud #TechUpgrades
+
 ### 20.01.2023 (announcement Musiccloud)
 - https://github.com/linkspreed/Musiccloud/blob/main/changelog.md
 - The entire changelog is now available on Github.
